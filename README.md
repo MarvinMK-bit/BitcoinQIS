@@ -7,4 +7,6 @@ Bitcoin Quantum Information Science
 
 3. Third Project --> Analyzing Bitcoin blockchain data scraped from mempool.space using a Quantum Computer. Crash Task was to plot a history of 8 consecutive block fees using 3 qubits.
 
-4. Fourth Project -- Encding Bitcoin's ASCII text logo using the Qiskit SDK (a quantum computer simulator)
+4. Fourth Project -- Encoding Bitcoin's ASCII text logo using the Qiskit SDK (a quantum computer simulator)
+   
+5. Doing a quantum walk over my Bitcoin logo.
